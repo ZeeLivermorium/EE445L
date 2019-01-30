@@ -1,0 +1,14 @@
+.DS_Store
+*.dep
+*.bak
+*.bin
+*.axf
+*.htm
+*.crf
+*.o
+*.d
+*.lnp
+*.map
+*.uvopt
+*.uvgui.*
+*.lst
